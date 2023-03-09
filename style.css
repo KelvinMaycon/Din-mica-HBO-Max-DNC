@@ -72,14 +72,14 @@ form{
 form input{
     border-radius: 25px;
     padding: 20px;
-    background-color: #7F7F7F;
+    background: rgba(127, 127, 127, 0.75);
     border: none;
     margin-bottom: 30px;
     margin-top: 10px;
     
 }
  form .buttons{
-    background-color: #8C77E0;          
+    background: #8C77E0;          
     width: 214px;
     border-radius: 25px;
     margin:auto;
